@@ -26,7 +26,7 @@ public class LTB3 extends javax.swing.JFrame {
         DongVat dv1 = new DongVat("DV1", "Sói", 50, true, 2005, "Sinh lâu rồi");
         DongVat dv2 = new DongVat("DV2", "Cáo", 20, false, 2000, "Mới sinh");
         DongVat dv3 = new DongVat("DV3", "Báo", 30, true, 2015, "Sinh lâu rồi");
-        DongVat dv4 = new DongVat("DV4", "Báo", 10, false, 2015, "Sinh lâu rồi");
+        DongVat dv4 = new DongVat("DV4", "Báo", 10, false, 2015, "Sinh lâu rồi1");
         DongVat dv5 = new DongVat("DV5", "Báo", 35, true, 2015, "Sinh lâu rồi");
         this.dvs.add(dv1);
         this.dvs.add(dv2);
